@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/medmahj/Opertionalize-a-Machine-Leraning-Microservice-API.svg?style=svg)](https://circleci.com/gh/MedMahj/Opertionalize-a-Machine-Leraning-Microservice-API)
 
 ## Project Overview
 
