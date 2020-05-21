@@ -1,4 +1,4 @@
-pylint==1.8.1
+pylint
 Click==7.0
 Flask==1.0.2
 itsdangerous==1.1.0
